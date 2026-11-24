@@ -1,0 +1,6 @@
+*-kit/
+kit.tar.gz
+out/
+out2/
+__pycache__/
+.DS_Store
